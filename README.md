@@ -40,20 +40,17 @@ In 2026, the **Agentic Web** has shifted from experimental tools to **production
 ## 🌐 SaaS Agentic Commerce Platforms
 *Proprietary stores for buying, selling, and deploying managed AI agents.*
 
-- **[toku.agency](https://toku.agency/)**  
-  Leading marketplace for "hiring" AI agents via API. Supports USD payments and direct integration into enterprise stacks.
-  
-- **[OpenServ.ai](https://openserv.ai/)**  
-  Specialized in **Enterprise Agent Orchestration** and managed multi-agent teams. High focus on ROI and observability.
-
-- **[Relevance AI](https://relevanceai.com/)**  
-  Powerful business automation hub with a marketplace for production-ready workflows and specialized agents.
-
-- **[Lindy.ai](https://www.lindy.ai/)**  
-  Consumer-focused assistant marketplace with hundreds of specialized agents for productivity and personal tasks.
-
-- **[Agent.ai](https://agent.ai/)**  
-  HubSpot-backed directory and marketplace for discovering top-tier autonomous agents.
+| Platform | Unique Value Proposition | Pricing & Free Tier (2026) |
+| :--- | :--- | :--- |
+| **[toku.agency](https://toku.agency/)** | The "Fiverr for AI Agents." USD-based marketplace. | **Free to list.** 15% commission on successful jobs. |
+| **[OpenServ.ai](https://openserv.ai/)** | Enterprise orchestration & multi-agent teams. | **Free to build.** Pay-as-you-go via SERV tokens for execution. |
+| **[Relevance AI](https://relevanceai.com/)** | Business automation workflows & high-scale tools. | **Free Tier:** 200 Actions/mo + $2 one-time credit. Paid starts at ~$19/mo. |
+| **[Lindy.ai](https://www.lindy.ai/)** | Consumer personal assistants & voice agents. | **Free Tier:** 400 task credits/mo. Paid starts at $19.99/mo. |
+| **[Agent.ai](https://agent.ai/)** | HubSpot-backed directory for autonomous agents. | **Free Tier:** Unlimited runs for standard agents. Premium agents ~$10/mo. |
+| **[Zapier Central](https://zapier.com/central)** | 7,000+ app integrations via natural language. | **Free Tier:** 2 active agents + 100 runs/mo. Paid starts at $20/mo. |
+| **[Apify Store](https://apify.com/store)** | Web scraping & browser automation specialists. | **Free Tier:** $5 monthly platform credit. Paid starts at $49/mo. |
+| **[Dify Cloud](https://dify.ai/)** | Hosted version of the leading open-source platform. | **Free Tier:** 200 messages/mo + 1MB storage. Paid starts at $59/mo. |
+| **[Voiceflow](https://voiceflow.com/)** | Conversational agents & visual design tools. | **Free Tier:** 2 agents + 100k tokens/mo. Paid starts at $50/mo. |
 
 ## 💻 Open-Source & Self-Hosted Marketplaces
 *Infrastructure for building your own agent store or sharing agents via GitHub.*
