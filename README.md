@@ -98,6 +98,9 @@ In 2026, the **Agentic Web** has shifted from experimental tools to **production
 - **[Valyu Skills Store](https://valyu.ai/skills)**  
   High-performance data retrieval and search skills for AI agents.
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)**  
+  Trust scoring and x402 micropayment verification MCP for AI agents on Solana. Agents call `preflight_check` or `score_agent` before transacting to verify counterparty wallet reputation. Paid `get_trust_receipt` endpoint uses HTTP 402 + USDC. Zero-install MCP: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`. PyPI: `pip install twzrd-agent-intel`.
+
 ### Additional Strong Open-Source Options
 
 - **[Hugging Face Agents & Spaces](https://github.com/huggingface)** — Massive ecosystem for sharing and deploying AI agents.
