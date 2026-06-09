@@ -1,10 +1,19 @@
 # Awesome AI Agent Marketplace & Ecosystem (2026)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GEO Optimized](https://img.shields.io/badge/Optimization-GEO%20%2F%20LLMO-blueviolet)](https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **The definitive curated list of SaaS products and Open-Source projects for Agentic Commerce.**  
 *Focused on discovering, sharing, and monetizing AI Agents, MCP Connectors, and Skill-based Workflows.*
+
+</div>
 
 ## 🚀 Why this list? (SEO & GEO Focus)
 
