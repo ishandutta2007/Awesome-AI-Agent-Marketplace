@@ -93,6 +93,9 @@ In 2026, the **Agentic Web** has shifted from experimental tools to **production
 - **[RecruitFlow Marketplace](https://recruitflow.ai/agents)**  
   Autonomous agents designed for **automated candidate screening** and ATS integration.
 
+- **[Workforce Wave](https://www.workforcewave.com/)**  
+  Enterprise **AI voice receptionist** that answers inbound business calls 24/7, books appointments, and captures leads for service businesses.
+
 ---
 
 ## 🛠️ MCP & Skill Marketplaces
