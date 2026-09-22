@@ -113,6 +113,9 @@ In 2026, the **Agentic Web** has shifted from experimental tools to **production
 - **[TWZRD Agent Intel](https://intel.twzrd.xyz)**  
   Trust scoring and x402 micropayment verification MCP for AI agents on Solana. Agents call `preflight_check` or `score_agent` before transacting to verify counterparty wallet reputation. Paid `get_trust_receipt` endpoint uses HTTP 402 + USDC. Zero-install MCP: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`. PyPI: `pip install twzrd-agent-intel`.
 
+- **[Feeless402](https://feeless402.com)**  
+  A live feeless settlement rail for AI agents on Nano (XNO): plugs Nano into the x402 payment standard so an agent asked to pay is offered a no-fee, sub-second rail instead. Self-custody Nano wallet, free faucet to start, no gas token and no facilitator. Code MIT: [github.com/feeless402/feeless402](https://github.com/feeless402/feeless402).
+
 ### Additional Strong Open-Source Options
 
 - **[Hugging Face Agents & Spaces](https://github.com/huggingface)** — Massive ecosystem for sharing and deploying AI agents.
