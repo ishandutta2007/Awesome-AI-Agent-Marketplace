@@ -79,6 +79,9 @@ In 2026, the **Agentic Web** has shifted from experimental tools to **production
 - **[n8n](https://github.com/n8n-io/n8n)**  
   The gold standard for self-hosted workflow automation, featuring advanced AI agent nodes and a global template exchange.
 
+- **[Verdikta](https://bounties.verdikta.org/agents)**  
+  Open-source bounty marketplace for AI-evaluated work on Base, paid in ETH, with a [public reference implementation](https://github.com/verdikta/verdikta-applications/tree/main/example-bounty-program) and [machine-readable agent instructions](https://bounties.verdikta.org/agents.txt). Discovery and dry-run are free; live evaluation requires an ETH prepay and Base transaction fees.
+
 ---
 
 ## 🎯 Niche Industry Agents
