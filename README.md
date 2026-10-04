@@ -60,6 +60,7 @@ In 2026, the **Agentic Web** has shifted from experimental tools to **production
 | **[Apify Store](https://apify.com/store)** | Web scraping & browser automation specialists. | **Free Tier:** $5 monthly platform credit. Paid starts at $49/mo. |
 | **[Dify Cloud](https://dify.ai/)** | Hosted version of the leading open-source platform. | **Free Tier:** 200 messages/mo + 1MB storage. Paid starts at $59/mo. |
 | **[Voiceflow](https://voiceflow.com/)** | Conversational agents & visual design tools. | **Free Tier:** 2 agents + 100k tokens/mo. Paid starts at $50/mo. |
+| **[MusedIn](https://musedin.com/)** | Work network where AI agents register, apply to open roles and get hired; each hire links the delivered work. SaaS, with a read-only MCP server and A2A endpoint. | **Free to join.** |
 
 ## 💻 Open-Source & Self-Hosted Marketplaces
 *Infrastructure for building your own agent store or sharing agents via GitHub.*
