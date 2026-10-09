@@ -159,3 +159,141 @@ Let's make powerful AI agents more discoverable, shareable, and customizable.
 </div>
 # Awesome-AI-Agent-Marketplace
 
+# Awesome-AI-Agent-Marketplace 🤖 🛒
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Agent Marketplace Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Marketplace?style=social" alt="GitHub_Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Marketplace?style=social" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Marketplace?color=blue" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 🌟 Top AI Agent Marketplace Ecosystem
+
+**Curated List of Commercial Agent Marketplaces & Open-Source Agent Registries**  
+*Focused on Agent Discovery, Prompt Sharing, Tool Marketplaces, Agent-to-Agent Commerce, MCP Registries & Self-Hosted Agent Catalogs*
+
+**Last updated: October 2026** 📅
+
+---
+
+### 📌 Overview & SEO Summary
+Welcome to the ultimate curated directory of **AI agent marketplaces**, **open-source agent registries**, and **tool-sharing platforms**. Whether you are looking for enterprise-grade commercial marketplaces (such as *Salesforce AgentExchange*, *OpenAI GPT Store*, and *Dify Marketplace*), or self-hostable open-source alternatives (like *LangChain Hub*, *Flowise Marketplace*, and *Tenable CyberAgents Exchange*), this list covers category leaders, prompt/agent sharing, and privacy-respecting agent discovery.
+
+**Key Market Context:**
+- **Salesforce AgentExchange** unifies **AppExchange, Slack Marketplace, and Agentforce ecosystem** into a single hub with **13,000+ solutions**, **semantic search powered by Data 360**, and **MCP connectivity to 6,000+ AgentX apps** [citation:6][citation:18].
+- **Dify Marketplace** now hosts **nearly 1,000 plugins and 300+ templates**, with **featured banners, likes, ratings, and written feedback** that connect creators and users [citation:5][citation:17].
+- **Tenable CyberAgents Exchange** is the **first free, open-source marketplace for cybersecurity AI agents**, with **SentinelOne and Recorded Future** as founding members [citation:14].
+- **Monid** raised **$7.7M seed** as the **first dedicated infrastructure for agent commerce**, processing **4 million+ agent transactions** at **~$0.0013 per call** [citation:1].
+
+---
+
+## 📑 Table of Contents
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
+- [📊 Star History](#-star-history)
+- [🤝 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS / Commercial Platforms
+
+The AI agent marketplace market spans **enterprise agent exchanges** (Salesforce AgentExchange) that integrate **agent discovery, commerce, and activation into existing platforms**, **consumer AI app stores** (OpenAI GPT Store, Poe) that offer **millions of GPTs and bots for end users**, and **developer-focused agent hubs** (LangChain Hub, Dify Marketplace, Flowise Hub) that provide **prompts, workflows, and tools for builders**. **Salesforce AgentExchange** is **free to browse** with **private offers and usage-based billing** [citation:6]. **OpenAI GPT Store** is **free to browse and create** — **3M+ GPTs** created by **292K+ developers** [citation:16]. **Dify Cloud Professional** costs **~$59/month** with **free Sandbox** [citation:5].
+
+| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce AgentExchange](https://www.salesforce.com/agentforce/agentexchange/)** ☁️ | Salesforce | ~$250 Billion | **Free to browse**; **usage-based billing** | **Free: 13,000+ solutions, MCP connectivity to 6,000+ apps**  | **Enterprise agent marketplace** — **Unified hub for AppExchange, Slack Marketplace, and Agentforce** [citation:6]. **Semantic search powered by Data 360**. **Private offers and one-click activation**. **MCP and A2A networks** for agent collaboration [citation:18]. |
+| **[OpenAI GPT Store](https://chatgpt.com/gpts)** 🤖 | OpenAI | ~$80 Billion | **Free to browse and create** | **Free: 3M+ GPTs, revenue sharing for creators**  | **The largest AI agent marketplace** — **3M+ GPTs** created by **292K+ developers** [citation:16]. **Categories: Education (98K+), Productivity (75K+), Lifestyle (65K+)** . **Revenue sharing with GPT authors**. |
+| **[Dify Marketplace](https://marketplace.dify.ai/)** 🎨 | Dify | Private | **Free to browse**; **Dify Cloud Professional ~$59/month** | **Free: ~1,000 plugins, 300+ templates**  | **LLMOps marketplace** — **~1,000 plugins and 300+ templates** [citation:5]. **Featured banners, likes, ratings, and written feedback**. **Creator Center with Affiliate Program up to 50% recurring commission** [citation:17]. |
+| **[Poe](https://poe.com/)** 💬 | Quora | ~$1.8 Billion | **$4.99/month** (Poe Subscription) | **Free: limited daily points** | **AI bot marketplace** — **Browse and chat with bots created by the community**. **Poe Creator Monetization**. **Shared subscriptions for families and teams** [citation:10]. |
+| **[Flowise Hub](https://flowiseai.com/)** 🎯 | FlowiseAI | Private | **Free: community templates** | **Free: community and custom templates** | **LLM app marketplace** — **Community templates for chatflows, agents, and tools** [citation:7]. **Filter by use case, framework, and popularity**. **One-click adopt templates**. |
+| **[MindStudio Marketplace](https://www.mindstudio.ai/)** 🧠 | MindStudio | Private | **Free: templates available** | **Free: pre-built AI workers** | **AI worker marketplace** — **Discover and reuse pre-built AI workers** [citation:8]. **No-code builder with visual workflow editor**. **Partner directory for hiring consultants** [citation:20]. |
+| **[Toolhouse](https://toolhouse.ai/)** 🔧 | Toolhouse | Private | **Free: 1,000 API calls/month** | **Free: 1,000 API calls/month** | **AI tool marketplace** — **"npm for AI components"** [citation:11]. **Ready-made AI components integrable in 3 lines of code**. **Works with any framework**. |
+| **[PromptBase](https://promptbase.com/)** ✍️ | PromptBase | Private | **Free: browse and buy prompts** | **Free: browse marketplace** | **Prompt marketplace** — **Buy and sell AI prompts** [citation:12]. **AI Creator Marketplace for hiring creators**. **Custom prompt creation with escrow payments**. |
+| **[Hugging Face Spaces](https://huggingface.co/spaces)** 🤗 | Hugging Face | ~$4.5 Billion | **Free: unlimited public Spaces** | **Free: CPU Spaces, ZeroGPU for Pro** | **AI app marketplace** — **Gradio Spaces as agent tools** [citation:9]. **`Tool.from_space()` integration with smolagents**. **Free and scalable compute**. |
+| **[Kiteworks Agent Marketplace](https://www.kiteworks.com/)** 🛡️ | Kiteworks | Private | **Custom enterprise pricing** | **Demo available** | **Governed AI agent marketplace** — **60+ pre-built agents for compliance and governance** [citation:13]. **Secure MCP Server integration**. **GDPR, HIPAA, SOC 2, ISO 27001 compliance agents**. **Open, human-readable agent definitions**. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
+
+- **[LangChain Hub](https://github.com/langchain-ai/langchain)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
+  **Centralized repository for sharing and versioning prompts**, MIT licensed. **The original prompt hub** — **`push` and `pull` functions** for LangChain objects [citation:3]. **Version control with commit hashes**. **Public and private prompts**. **Model metadata attachment**. **The standard for prompt sharing in the LangChain ecosystem** [citation:15]. 🔗
+
+- **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+  **LLMOps platform with marketplace**, Apache-2.0 licensed. **157K+ GitHub stars** — **visual workflow builder with template marketplace**. **Creator Center for publishing workflows**. **Plugins and tools marketplace**. **Affiliate Program for template monetization** [citation:17]. 🎨
+
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+  **Drag-and-drop LLM app builder with marketplace**, Apache-2.0 licensed. **Community templates for chatflows, agents, and tools** [citation:7]. **Filter by use case (Customer Support, Document Q&A, Code Assistant)** . **One-click template adoption**. **Self-host free**. 🎯
+
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+  **Workflow automation with 400+ integrations**, Sustainable Use License. **176K+ GitHub stars** — **the most popular open-source automation platform**. **Template library for AI workflows**. **Self-hosted with unlimited executions**. 🔄
+
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  **Multi-agent orchestration with marketplace**, MIT licensed. **59K+ GitHub stars** — **role-based agent crews**. **Free for self-hosted deployments**. **CrewAI Cloud with visual editor**. 👥
+
+- **[AutoGen Studio](https://github.com/microsoft/autogen)** [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+  **No-code multi-agent workflows**, CC-BY-4.0 licensed. **61K+ GitHub stars** — **AutoGen Studio for prototyping**. **Gallery of reusable components**. **Export workflows as API endpoints**. 🏛️
+
+- **[Tenable CyberAgents Exchange](https://github.com/tenable/cyberagents-exchange)** [![Stars](https://img.shields.io/github/stars/tenable/cyberagents-exchange?style=social&color=white)](https://github.com/tenable/cyberagents-exchange/stargazers)  
+  **Open-source marketplace for cybersecurity AI agents**, open-source. **Free to list and use** — **no fees** [citation:14]. **Vendor-agnostic registry** for agents, skills, MCP servers, and multi-agent playbooks. **Code-level visibility** into creator, creation date, and peer support. **Founding members: SentinelOne and Recorded Future**. 🛡️
+
+- **[Hugging Face Spaces (Agents)](https://github.com/huggingface/smolagents)** [![Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
+  **Agent tools from Spaces**, Apache-2.0 licensed. **`Tool.from_space()`** imports any Gradio Space as an agent tool [citation:9]. **Free and scalable compute**. **Thousands of pre-built apps**. 🤗
+
+- **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [![Stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white)](https://github.com/xlang-ai/OpenAgents/stargazers)  
+  **Agent networks over WebSocket, gRPC, MCP and A2A**, Apache-2.0 licensed. **4K+ GitHub stars** . **Open protocol for agent communication**. 🌐
+
+---
+
+## 🛠️ How to Contribute
+
+Contributions are welcome! Follow these steps to submit new AI agent marketplace platforms or open-source agent registry software:
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
+4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Agent-Marketplace&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Agent-Marketplace&type=date&legend=top-left)
+
+---
+
+## 🤝 Support & Sponsorship
+
+If you find this AI agent marketplace repository useful, please consider supporting the project:
+
+- ⭐ **Star** this repository to increase visibility!
+- 🔀 **Fork** and share with fellow AI engineers, developers, and open-source advocates.
+- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
+- **Salesforce AgentExchange unifies 13,000+ solutions** with **semantic search and MCP connectivity to 6,000+ apps** [citation:6][citation:18]. **OpenAI GPT Store hosts 3M+ GPTs** created by **292K+ developers** [citation:16]. **Dify Marketplace has ~1,000 plugins and 300+ templates** with **feedback and affiliate monetization** [citation:5][citation:17].
+- **Tenable CyberAgents Exchange is free and open-source** — **no fees for listing or using agents** [citation:14]. **Monid raised $7.7M** for **agent commerce infrastructure** with **~$0.0013 per call** [citation:1].
+- **Open-source agent marketplaces are not turnkey** — they require **deployment, content moderation, and ongoing maintenance**. **LangChain Hub requires API keys** [citation:15]. **Dify requires PostgreSQL, Redis, and a vector database** [citation:5]. **Always validate marketplace content and security with a proof-of-concept** before production deployment. 🤖
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for AI engineers, developers, and open-source agent marketplace advocates.</b>
+</p>
