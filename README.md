@@ -267,7 +267,7 @@ Contributions are welcome! Follow these simple steps to list your project or upd
 <<<<<<< HEAD
 3. 🔗 Include: Project Name, Official URL, exact GitHub_Stars_Count (for open-source), License, and concise description.
 =======
-3. 🔗 Include: Project Name, Official URL, exact GitHub Stars_Count (for open-source), License, and concise description.
+3. 🔗 Include: Project Name, Official URL, exact GitHub_Stars_Count (for open-source), License, and concise description.
 >>>>>>> 10452ece81731f4b4a13f8f88c66cef6a07c0678
 4. 🚀 Submit a **Pull Request** with a summary of added entries.
 
