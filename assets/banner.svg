@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <!-- Dark Tech Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0d19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070913" />
+    </linearGradient>
+
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60A5FA" />
+      <stop offset="50%" stop-color="#A78BFA" />
+      <stop offset="100%" stop-color="#F472B6" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="lineGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0.1" />
+    </linearGradient>
+
+    <linearGradient id="lineGrad2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.1" />
+    </linearGradient>
+
+    <!-- Glowing Filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="dropShadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 42px;
+      fill: url(#titleGradient);
+    }
+    .subtitle {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      font-size: 19px;
+      fill: #94A3B8;
+    }
+    .badge-text {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 13px;
+      fill: #38BDF8;
+      letter-spacing: 1.5px;
+    }
+    .card-text {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #CBD5E1;
+    }
+
+    /* CSS Animations for Dynamic Elements */
+    @keyframes pulseParticle {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 0.9; transform: scale(1.5); }
+    }
+    @keyframes moveDash {
+      to { stroke-dashoffset: -100; }
+    }
+    @keyframes floatCard {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+    @keyframes floatCardOpposite {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(8px); }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-100%); }
+      100% { transform: translateY(360px); }
+    }
+
+    .particle {
+      animation: pulseParticle 4s infinite ease-in-out;
+    }
+    .p1 { animation-delay: 0s; }
+    .p2 { animation-delay: 1.3s; }
+    .p3 { animation-delay: 2.6s; }
+
+    .animated-stream {
+      stroke-dasharray: 10, 15;
+      animation: moveDash 3s linear infinite;
+    }
+    .animated-stream-fast {
+      stroke-dasharray: 8, 12;
+      animation: moveDash 1.8s linear infinite;
+    }
+
+    .floating-1 { animation: floatCard 5s ease-in-out infinite; }
+    .floating-2 { animation: floatCardOpposite 6s ease-in-out infinite; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="16" fill="url(#bgGradient)" />
+
+  <!-- Grid Pattern Overlay (Background Depth) -->
+  <g opacity="0.08">
+    <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200 M0 240 H1200 M0 280 H1200 M0 320 H1200" stroke="#FFFFFF" stroke-width="1"/>
+    <path d="M100 0 V360 M200 0 V360 M300 0 V360 M400 0 V360 M500 0 V360 M600 0 V360 M700 0 V360 M800 0 V360 M900 0 V360 M1000 0 V360 M1100 0 V360" stroke="#FFFFFF" stroke-width="1"/>
+  </g>
+
+  <!-- LAYER 1: Dynamic Animated Background Elements (Flows, Streams, Nodes) -->
+  <g id="dynamic-background-flows">
+    <!-- Connecting Flow Lines -->
+    <path d="M -50 80 Q 300 20 600 140 T 1250 80" fill="none" stroke="url(#lineGrad1)" stroke-width="3" class="animated-stream" />
+    <path d="M -50 280 Q 400 340 700 220 T 1250 300" fill="none" stroke="url(#lineGrad2)" stroke-width="2.5" class="animated-stream-fast" />
+
+    <!-- Glowing Background Particles -->
+    <circle cx="150" cy="90" r="4" fill="#60A5FA" class="particle p1" filter="url(#softGlow)" />
+    <circle cx="1050" cy="270" r="5" fill="#F472B6" class="particle p2" filter="url(#softGlow)" />
+    <circle cx="920" cy="80" r="3.5" fill="#34D399" class="particle p3" filter="url(#softGlow)" />
+    <circle cx="220" cy="290" r="4.5" fill="#A78BFA" class="particle p2" filter="url(#softGlow)" />
+  </g>
+
+  <!-- LAYER 2: Side Cards (Pills / Cards positioned on left and right edges so center is clear) -->
+  <g id="dynamic-side-widgets">
+    <!-- Left Floating Card (MCP Connector Node) -->
+    <g class="floating-1" transform="translate(45, 130)" filter="url(#dropShadow)">
+      <rect width="180" height="95" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.5" />
+      <circle cx="30" cy="32" r="14" fill="#3B82F6" fill-opacity="0.2" />
+      <text x="30" y="37" font-family="sans-serif" font-size="14" fill="#60A5FA" text-anchor="middle">🔌</text>
+      <text x="54" y="36" class="card-text" font-weight="700">MCP Protocol</text>
+      <text x="54" y="52" class="card-text" fill="#64748B" font-size="10">6,000+ Connectors</text>
+
+      <!-- Mini Status Pill -->
+      <rect x="20" y="65" width="140" height="18" rx="9" fill="#0F172A" stroke="#1E293B" />
+      <circle cx="30" cy="74" r="3.5" fill="#10B981" />
+      <text x="40" y="78" font-family="sans-serif" font-size="9" fill="#94A3B8" font-weight="600">ACTIVE REGISTRY</text>
+    </g>
+
+    <!-- Right Floating Card (Autonomous Agents & Micro-Payments) -->
+    <g class="floating-2" transform="translate(975, 130)" filter="url(#dropShadow)">
+      <rect width="180" height="95" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.5" />
+      <circle cx="30" cy="32" r="14" fill="#EC4899" fill-opacity="0.2" />
+      <text x="30" y="37" font-family="sans-serif" font-size="14" fill="#F472B6" text-anchor="middle">🤖</text>
+      <text x="54" y="36" class="card-text" font-weight="700">Agentic Commerce</text>
+      <text x="54" y="52" class="card-text" fill="#64748B" font-size="10">ACP Micro-Payments</text>
+
+      <!-- Mini Status Pill -->
+      <rect x="20" y="65" width="140" height="18" rx="9" fill="#0F172A" stroke="#1E293B" />
+      <circle cx="30" cy="74" r="3.5" fill="#60A5FA" />
+      <text x="40" y="78" font-family="sans-serif" font-size="9" fill="#94A3B8" font-weight="600">$10.5B MARKETPLACE</text>
+    </g>
+  </g>
+
+  <!-- LAYER 3: FOREGROUND TITLE & SUBTITLE (Guaranteed crisp visibility, foreground position) -->
+  <g id="foreground-content" filter="url(#dropShadow)">
+    <!-- Top Pill Badge -->
+    <g transform="translate(600, 75)">
+      <rect x="-140" y="-16" width="280" height="32" rx="16" fill="#1E1B4B" fill-opacity="0.8" stroke="#6366F1" stroke-width="1.5" />
+      <text x="0" y="5" class="badge-text" text-anchor="middle">ECOSYSTEM DIRECTORY • 2026</text>
+    </g>
+
+    <!-- Main Title (Centered & High contrast with glow + shadow) -->
+    <text x="600" y="155" class="title" text-anchor="middle" filter="url(#softGlow)">
+      Awesome AI Agent Marketplace
+    </text>
+
+    <!-- Subtitle (Centered) -->
+    <text x="600" y="202" class="subtitle" text-anchor="middle">
+      The Hub for Commercial SaaS, Open-Source Registries, MCP Plugins &amp; Agentic Commerce
+    </text>
+
+    <!-- Bottom Feature Pills Bar (Foreground center) -->
+    <g transform="translate(600, 260)">
+      <!-- Feature Pill 1 -->
+      <g transform="translate(-230, 0)">
+        <rect x="-75" y="-15" width="150" height="30" rx="15" fill="#0F172A" stroke="#334155" stroke-width="1" />
+        <text x="0" y="4" font-family="sans-serif" font-size="12" fill="#E2E8F0" font-weight="600" text-anchor="middle">🛒 SaaS Marketplaces</text>
+      </g>
+      <!-- Feature Pill 2 -->
+      <g transform="translate(-75, 0)">
+        <rect x="-70" y="-15" width="140" height="30" rx="15" fill="#0F172A" stroke="#334155" stroke-width="1" />
+        <text x="0" y="4" font-family="sans-serif" font-size="12" fill="#E2E8F0" font-weight="600" text-anchor="middle">🔓 Open-Source</text>
+      </g>
+      <!-- Feature Pill 3 -->
+      <g transform="translate(70, 0)">
+        <rect x="-65" y="-15" width="130" height="30" rx="15" fill="#0F172A" stroke="#334155" stroke-width="1" />
+        <text x="0" y="4" font-family="sans-serif" font-size="12" fill="#E2E8F0" font-weight="600" text-anchor="middle">🔌 MCP Hubs</text>
+      </g>
+      <!-- Feature Pill 4 -->
+      <g transform="translate(210, 0)">
+        <rect x="-65" y="-15" width="130" height="30" rx="15" fill="#0F172A" stroke="#334155" stroke-width="1" />
+        <text x="0" y="4" font-family="sans-serif" font-size="12" fill="#E2E8F0" font-weight="600" text-anchor="middle">💳 ACP Commerce</text>
+      </g>
+    </g>
+  </g>
+</svg>
