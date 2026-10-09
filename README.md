@@ -8,7 +8,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Marketplace?style=social)](https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Marketplace?style=social)](https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Marketplace?style=social)](https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace/network/members)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Marketplace?color=blue)](https://github.com/ishandutta2007/Awesome-AI-Agent-Marketplace/blob/main/LICENSE)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -98,64 +98,64 @@ Welcome to the ultimate directory of **AI agent marketplaces**, **open-source ag
 
 *Self-hostable agent frameworks, prompt hubs, tool stores, and open registries.* 🌟
 
-*Sorted by GitHub Stars Count (Descending)*
+*Sorted by GitHub_Stars_Count (Descending)*
 
 1. **[OpenClaw](https://github.com/openclaw/openclaw)** [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social&color=white)](https://github.com/openclaw/openclaw/stargazers) 🐾  
-   **391K+ GitHub Stars** — Plug-and-play AI agent platform with a viral **Skill Marketplace** for instant deployment of complex agentic capabilities.
+   **391K+ GitHub_Stars** — Plug-and-play AI agent platform with a viral **Skill Marketplace** for instant deployment of complex agentic capabilities.
 
 2. **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) 🔄  
-   **206K+ GitHub Stars** — The gold standard for self-hosted workflow automation, featuring AI agent nodes and a global community workflow marketplace.
+   **206K+ GitHub_Stars** — The gold standard for self-hosted workflow automation, featuring AI agent nodes and a global community workflow marketplace.
 
 3. **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) 🎨  
-   **157K+ GitHub Stars** — Enterprise LLMOps platform with visual workflow builder, template marketplace, and plugin ecosystem.
+   **157K+ GitHub_Stars** — Enterprise LLMOps platform with visual workflow builder, template marketplace, and plugin ecosystem.
 
 4. **[LangChain](https://github.com/langchain-ai/langchain)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers) 🔗  
-   **147K+ GitHub Stars** — The foundational framework for LLM apps, featuring **LangChain Hub** for sharing, versioning, and pulling prompt templates.
+   **147K+ GitHub_Stars** — The foundational framework for LLM apps, featuring **LangChain Hub** for sharing, versioning, and pulling prompt templates.
 
 5. **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) 🖼️  
-   **136K+ GitHub Stars** — Modular node-based interface and custom node marketplace for generative AI and media generation agents.
+   **136K+ GitHub_Stars** — Modular node-based interface and custom node marketplace for generative AI and media generation agents.
 
 6. **[Browser Use](https://github.com/browser-use/browser-use)** [![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers) 🌐  
-   **117K+ GitHub Stars** — Open-source web automation library allowing LLM agents to seamlessly interact with any website.
+   **117K+ GitHub_Stars** — Open-source web automation library allowing LLM agents to seamlessly interact with any website.
 
 7. **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) 🏛️  
-   **70K+ GitHub Stars** — Multi-agent framework assigning software company roles (CEO, CTO, Architect, Engineer) to agents to complete full software projects.
+   **70K+ GitHub_Stars** — Multi-agent framework assigning software company roles (CEO, CTO, Architect, Engineer) to agents to complete full software projects.
 
 8. **[AutoGen](https://github.com/microsoft/autogen)** [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers) 🤖  
-   **61K+ GitHub Stars** — Microsoft's multi-agent orchestration framework with AutoGen Studio for prototyping and gallery component sharing.
+   **61K+ GitHub_Stars** — Microsoft's multi-agent orchestration framework with AutoGen Studio for prototyping and gallery component sharing.
 
 9. **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers) 👥  
-   **59K+ GitHub Stars** — Framework for orchestrating role-based autonomous AI agents with an open community crew template hub.
+   **59K+ GitHub_Stars** — Framework for orchestrating role-based autonomous AI agents with an open community crew template hub.
 
 10. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) 🎯  
-    **55K+ GitHub Stars** — Open-source drag-and-drop UI for building LLM flows and agent networks with one-click community template adoption.
+    **55K+ GitHub_Stars** — Open-source drag-and-drop UI for building LLM flows and agent networks with one-click community template adoption.
 
 11. **[LlamaIndex](https://github.com/run-llama/llama_index)** [![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers) 🦙  
-    **52K+ GitHub Stars** — Leading data framework for LLMs with **Agent Packs** and modular components for building retrieval-augmented agents.
+    **52K+ GitHub_Stars** — Leading data framework for LLMs with **Agent Packs** and modular components for building retrieval-augmented agents.
 
 12. **[AgentGPT](https://github.com/reworkd/AgentGPT)** [![Stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social&color=white)](https://github.com/reworkd/AgentGPT/stargazers) ⚡  
-    **36K+ GitHub Stars** — Autonomous AI agents running directly in the browser with goal execution and agent sharing options.
+    **36K+ GitHub_Stars** — Autonomous AI agents running directly in the browser with goal execution and agent sharing options.
 
 13. **[ChatDev](https://github.com/OpenBMB/ChatDev)** [![Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers) 💻  
-    **34K+ GitHub Stars** — Virtual software company driven by multi-agent collaboration with customizable agent organizational roles.
+    **34K+ GitHub_Stars** — Virtual software company driven by multi-agent collaboration with customizable agent organizational roles.
 
 14. **[smolagents](https://github.com/huggingface/smolagents)** [![Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers) 🤗  
-    **29K+ GitHub Stars** — Barebones Python agent library by Hugging Face integrating seamlessly with Hugging Face Hub tools and Spaces.
+    **29K+ GitHub_Stars** — Barebones Python agent library by Hugging Face integrating seamlessly with Hugging Face Hub tools and Spaces.
 
 15. **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers) 🧠  
-    **28K+ GitHub Stars** — Enterprise agent integration SDK by Microsoft supporting plugins, memory, and multi-language connectors.
+    **28K+ GitHub_Stars** — Enterprise agent integration SDK by Microsoft supporting plugins, memory, and multi-language connectors.
 
 16. **[Eliza](https://github.com/elizaOS/eliza)** [![Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white)](https://github.com/elizaOS/eliza/stargazers) 🎭  
-    **19K+ GitHub Stars** — Autonomous agent OS for creating, deploying, and managing multi-platform AI personas on Discord, Twitter, and Telegram.
+    **19K+ GitHub_Stars** — Autonomous agent OS for creating, deploying, and managing multi-platform AI personas on Discord, Twitter, and Telegram.
 
 17. **[Camel-AI](https://github.com/camel-ai/camel)** [![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers) 🐪  
-    **17K+ GitHub Stars** — Communicative agents framework for exploring autonomous multi-agent cooperation and social behaviors.
+    **17K+ GitHub_Stars** — Communicative agents framework for exploring autonomous multi-agent cooperation and social behaviors.
 
 18. **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [![Stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white)](https://github.com/xlang-ai/OpenAgents/stargazers) 🌐  
-    **4.8K+ GitHub Stars** — Open platform and protocol for hostable agent tools over WebSocket, gRPC, and Model Context Protocol (MCP).
+    **4.8K+ GitHub_Stars** — Open platform and protocol for hostable agent tools over WebSocket, gRPC, and Model Context Protocol (MCP).
 
 19. **[Tenable CyberAgents Exchange](https://github.com/tenable/cyberagents-exchange)** [![Stars](https://img.shields.io/github/stars/tenable/cyberagents-exchange?style=social&color=white)](https://github.com/tenable/cyberagents-exchange/stargazers) 🛡️  
-    **20+ GitHub Stars** — Open-source, vendor-agnostic marketplace for cybersecurity AI agents, skills, and MCP server playbooks.
+    **20+ GitHub_Stars** — Open-source, vendor-agnostic marketplace for cybersecurity AI agents, skills, and MCP server playbooks.
 
 ---
 
@@ -199,7 +199,7 @@ Contributions are welcome! Follow these simple steps to list your project or upd
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Edit** `README.md` following the established table or badge structure.
-3. 🔗 Include: Project Name, Official URL, exact GitHub Star Count (for open-source), License, and concise description.
+3. 🔗 Include: Project Name, Official URL, exact GitHub Stars_Count (for open-source), License, and concise description.
 4. 🚀 Submit a **Pull Request** with a summary of added entries.
 
 ---
@@ -221,3 +221,12 @@ Contributions are welcome! Follow these simple steps to list your project or upd
 <p align="center">
   <b>Built with ❤️ for AI engineers, multi-agent developers, and agentic commerce pioneers.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Agent-Marketplace&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Agent-Marketplace_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Agent-Marketplace_growth.svg">
+  </picture>
+</a>
