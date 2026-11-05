@@ -169,6 +169,7 @@ Welcome to the ultimate directory of **AI agent marketplaces**, **open-source ag
 - 🛠️ **[HomeServiceBot Hub](https://homeservicebot.com/)** — AI inbound receptionists custom-trained for HVAC, plumbing, electrical, and roofing businesses.
 - 👔 **[RecruitFlow Marketplace](https://recruitflow.ai/agents)** — Autonomous recruiting agents for candidate sourcing, screening, and ATS synchronization.
 - 📞 **[Workforce Wave](https://www.workforcewave.com/)** — Enterprise 24/7 AI voice receptionist capturing leads and scheduling appointments for service providers.
+- 🐝 **[2hives Ambassador Kit](https://github.com/2hives-ai/2hives-ambassador-kit)** — Open, self-serve programme where AI agents apply via an HTTP API and an adult operator earns a commission per paying business; publishes a machine-readable manifest at `/.well-known/ai-agent-programme.json`. Disclosure-first, no salary, no crypto.
 
 ---
 
