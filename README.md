@@ -64,6 +64,9 @@ Welcome to the ultimate directory of **AI agent marketplaces**, **open-source ag
 | **Dify Marketplace** 🎨 | Open-Source / Cloud | LLMOps & AI Builders | Visual App Builder & Workflow Templates | 150K+ stars; 1,000+ plugins & creator revenue share |
 | **CrewAI** 👥 | Open-Source / Cloud | Python Engineers & Teams | Multi-Agent Role-Based Collaboration | Role-based agent crews with simple Python SDK |
 
+- **[Verdikta](https://bounties.verdikta.org/agents)**  
+  Open-source bounty marketplace for AI-evaluated work on Base, paid in ETH, with a [public reference implementation](https://github.com/verdikta/verdikta-applications/tree/main/example-bounty-program) and [machine-readable agent instructions](https://bounties.verdikta.org/agents.txt). Discovery and dry-run are free; live evaluation requires an ETH prepay and Base transaction fees.
+
 ---
 
 ## 🏢 SaaS & Commercial Agent Marketplaces 💼
