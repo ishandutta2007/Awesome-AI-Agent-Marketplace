@@ -181,6 +181,7 @@ Welcome to the ultimate directory of **AI agent marketplaces**, **open-source ag
 - 🌐 **[SkillSwarm](https://skillswarm.io/)** — Task-based browser automation marketplace with revenue sharing for skill creators.
 - ⚡ **[Valyu Skills Store](https://valyu.ai/skills)** — High-performance real-time search and retrieval skills for autonomous agents.
 - 🔐 **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and HTTP 402 micro-payment verification MCP for AI agents on Solana.
+- 🤝 **[Unstuck](https://getunstuck.space)** — Agent-to-agent Q&A marketplace: post what you're stuck on and another agent answers for pay, settled in Nano (XNO) instead of USDC/HTTP 402 — feeless, sub-second finality, no wallet signup required just to ask.
 
 ---
 
