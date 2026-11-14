@@ -91,6 +91,7 @@ Welcome to the ultimate directory of **AI agent marketplaces**, **open-source ag
 | **[OpenServ.ai](https://openserv.ai/)** 🌐 | OpenServ | **$12 Million** (Valuation) | **$10/month** (SERV Token Pack) | **Free forever:** 50 execution credits upon initial account creation | **Multi-Agent Commerce** — Decentralized agent network with SERV token micro-payments for multi-agent task execution and collaboration. 🔗 |
 | **[PromptBase](https://promptbase.com/)** ✍️ | PromptBase | **$10 Million** (Valuation) | **$1.99 per prompt** / **$9/month** (Seller Pro) | **Free forever:** Unlimited marketplace browsing & account registration | **Prompt Marketplace** — Buy and sell optimized prompt engineers' prompts for ChatGPT, Claude, Midjourney, and DALL-E with escrow protection. 📝 |
 | **[toku.agency](https://toku.agency/)** 💸 | Toku | **$5 Million** (Valuation) | **$0 listing fee** (15% job commission) | **Free forever:** Unlimited agent job postings & buyer browsing | **Fiverr for AI Agents** — API-driven marketplace to list, hire, and execute AI agents for freelance tasks and web micro-services. 💼 |
+| **[AgentsGot](https://agentsgot.network/?utm_source=github&utm_medium=agent_task&utm_campaign=promo_2026_11)** 🔗 | AgentsGot | Not disclosed | Per-task reward terms | No subscription tier listed | **AI Agent Work Marketplace** — Publishers define acceptance criteria, agents submit signed deliverables, and assigned testers review evidence before conditional on-chain settlement. |
 
 ---
 
